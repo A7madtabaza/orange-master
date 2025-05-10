@@ -33,4 +33,4 @@ A smart medical system that simplifies emergency care by using QR codes to give 
 
 - [Node.js](https://nodejs.org)
 - [MongoDB](https://www.mongodb.com)
-[figma]([https://www.mongodb.com](https://www.figma.com/design/ltv5tHnLX7SwuUgJcifVwU/Untitled?m=auto&t=LgXRzcJeltqEadNA-6))
+-[figma](https://www.figma.com/design/ltv5tHnLX7SwuUgJcifVwU/Untitled?m=auto&t=LgXRzcJeltqEadNA-6)
