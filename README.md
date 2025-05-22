@@ -31,6 +31,6 @@ A smart medical system that simplifies emergency care by using QR codes to give 
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org)
-- [MongoDB](https://www.mongodb.com)
+
+- [trello](https://trello.com/b/nHbRZMZj/midcare)
 -[figma](https://www.figma.com/design/ltv5tHnLX7SwuUgJcifVwU/Untitled?m=auto&t=LgXRzcJeltqEadNA-6)
